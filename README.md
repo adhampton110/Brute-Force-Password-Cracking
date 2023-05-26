@@ -1,6 +1,6 @@
 ## Overview 
 
-Password cracking coursework project. gauging knowledge utilizing parallel threads. Assignment details can be found [here]([assigment.md](https://github.com/adhampton110/Brute-Force-Password-Cracking/blob/main/assignment.md)). 
+Password cracking coursework project. gauging knowledge utilizing parallel threads. Assignment details can be found [here]([assigment.md](https://github.com/adhampton110/Brute-Force-Password-Cracking/blob/main/assignment.md). 
 
 ## Getting Started
 
