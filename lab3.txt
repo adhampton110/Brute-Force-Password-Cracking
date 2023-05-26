@@ -1,0 +1,62 @@
+1. Anthony Hampton, Emily Henknen
+
+2. pass
+
+3. ferry
+
+4.
+real	1m21.901s
+user	1m21.485s
+sys	0m0.021s
+
+5.  
+2 Threads
+real    0m41.749s
+user    1m22.660s
+sys     0m.006s
+
+4 Threads
+real    0m21.727s
+user    1m21.123s
+sys     0m0.010s
+
+8 Threads
+real    0m10.771s
+user    1m14.645s
+sys     0m0.017s
+
+13 Threads
+real    0m6.845s
+user    1m06.034s
+sys     0m0.021s
+
+26 Threads
+real    1m21.630s
+user    2m857s
+sys     0m0.030s
+
+6. 
+1 Thread: 145069.87
+2 Threads: 284590.67
+4 Threads: 546848.43
+8 Threads: 1103089.41
+13 Threads: 1735774.43
+26 Threads: 145551.59
+
+7. The program executes faster with 2 threads. It does run 8 times faster with 8 threads. The program appears to execute quicker the larger the number of threads, with the exception of having 26 threads. Having 26 threads actually slow down the process, or has the same effect as using 1 thread. 
+
+8. 13 threads of 1735774.43
+
+9. 21,718,014,715
+
+10. 12512.00. Increasing the keysize gives the ability for the program to check more password possibilities. 
+
+11. 
+9427624077.21 
+
+12. No bugs bugs are found. 
+
+13. 
+1st EC: N/A
+
+2nd EC: Salts add an extra layer of security and give each password a sense of uniqueness. If salts were not implemented then the same password hash would be generated. 
